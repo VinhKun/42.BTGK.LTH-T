@@ -1,0 +1,2 @@
+C:\Users\Nam\Desktop\BT_\BT\bin\Debug\Laptrinhhuongdoituong.exe.config
+C:\Users\Nam\Desktop\BT_\BT\obj\Debug\Laptrinhhuongdoituong.exe
